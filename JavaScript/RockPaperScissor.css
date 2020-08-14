@@ -1,0 +1,17 @@
+#all-img-div {
+  display: flex;
+  flex-wrap: wrap;
+  border: 5px solid black;
+  width: 700px;
+  height: 300px;
+  padding-top: 60px;
+  margin-left: 280px;
+  margin-top: 90px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#headings {
+  margin-left: 450px;
+  margin-top: 50px;
+}
